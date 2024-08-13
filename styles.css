@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+fieldset {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+legend {
+    font-weight: bold;
+}
+
+textarea {
+    resize: vertical;
+}
